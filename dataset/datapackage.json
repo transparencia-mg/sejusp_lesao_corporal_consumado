@@ -1,0 +1,58 @@
+{
+  "name": "lesao_corporal_consumado",
+  "owner_org": "",
+  "profile": "data-package",
+  "resources": [
+    {
+      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8-sig",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "lesao_corporal_consumado",
+      "path": "data/lesao_corporal_consumado.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "registros",
+            "type": "integer"
+          },
+          {
+            "name": "natureza",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_ibge",
+            "type": "integer"
+          },
+          {
+            "name": "mes",
+            "type": "integer"
+          },
+          {
+            "name": "ano_fato",
+            "type": "integer"
+          },
+          {
+            "name": "risp",
+            "type": "string"
+          },
+          {
+            "name": "rmbh",
+            "type": "string"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "Insira um título humanamente legível para este recurso."
+    }
+  ],
+  "title": "Lesao_corporal_consumado"
+}
