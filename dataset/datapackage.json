@@ -1,10 +1,9 @@
 {
-  "name": "lesao_corporal_consumado",
-  "owner_org": "",
+  "name": "sejusp_lesao_corporal_consumado",
+  "owner_org": "secretaria-de-estado-de-justica-e-seguranca-publica-sejusp",
   "profile": "data-package",
   "resources": [
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -51,8 +50,8 @@
         ]
       },
       "scheme": "file",
-      "title": "Insira um título humanamente legível para este recurso."
+      "title": "Lesão Corporal Consumado"
     }
   ],
-  "title": "Lesao_corporal_consumado"
+  "title": "Lesão Corporal Consumado - SEJUSP"
 }
