@@ -1,6 +1,6 @@
 A Lesão Corporal é uma natureza de ocorrência registrada no Sistema Integrado de Defesa Social de Minas Gerais e disponibilizada para consulta e análise por meio dos dados de segurança pública do Estado.
 
-Os dados utilizados neste banco foram extraídos do Armazém de Dados do Sistema Integrado de Defesa Social, em seu módulo Registro de Evento de Defesa Social – REDS (Armazém_Sids_Reds). O REDS reúne registros de eventos de defesa social realizados em Minas Gerais e constitui uma das fontes utilizadas pela Secretaria de Estado de Justiça e Segurança Pública – SEJUSP para a produção de estatísticas de segurança pública. A documentação oficial da SEJUSP também identifica o Armazém Sisp – Módulo Reds como fonte de dados para estatísticas de lesão corporal.
+Os dados utilizados neste banco foram extraídos da Base Integrada de Segurança Pública (Bisp), em seu módulo Registro de Evento de Defesa Social – REDS. A Bisp compila os REDS registrados em Minas Gerais para as diferentes naturezas previstas. Por se tratar de um sistema integrado, abrange notificações registradas pela Polícia Militar, Polícia Civil, Corpo de Bombeiros Militar, Sistema Prisional e Sistema Socioeducativo.
 
 O banco apresenta os registros de Lesão Corporal por município de Minas Gerais, código do município segundo o IBGE, mês e ano de ocorrência do fato, além da respectiva Região Integrada de Segurança Pública – RISP e da identificação quanto à inserção do município na Região Metropolitana de Belo Horizonte – RMBH.
 
